@@ -1,4 +1,4 @@
-# Codeforces Archive: Problem Solutions by  Problem Ratings
+# Codeforces Solution: Problem Solutions by  Problem Ratings
 
 This repository based on my problem-solving solutions of Codeforces organized by problem ratings. It offers a structured approach to mastering algorithms and data structures through Codeforces problems categorized by difficulty levels based on their ratings.
 
